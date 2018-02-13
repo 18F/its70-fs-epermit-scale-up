@@ -19,14 +19,6 @@ This is even more important. We’d welcome your feedback on our [draft RFQ](/so
 We’ll keep this GitHub repository updated as we make progress towards releasing a final RFP. Thanks very much for your time, and we look forward to hearing from you about this important project\!
 
 
-## Public domain
-
-This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
-
-> This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
->
-> All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
-
 ## Contents
 
 1. [DRAFT RFP](https://github.com/18F/its70-fs-epermit-scale-up/blob/master/solicitation-documents/RFP.md)
@@ -34,4 +26,12 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in [CONT
 3. [DRAFT QASP](https://github.com/18F/its70-fs-epermit-scale-up/blob/master/solicitation-documents/QASP.md)
 
 3. [DRAFT Technical Quote Questions](https://github.com/18F/its70-fs-epermit-scale-up/blob/master/solicitation-documents/technical-quote-questions.md)
+
+## Public domain
+
+This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
+
+> This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+>
+> All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
 
