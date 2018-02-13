@@ -29,9 +29,9 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in [CONT
 
 ## Contents
 
-1. [DRAFT RFQ](https://github.com/18F/its70-fs-epermit-scale-up/RFP.md)
+1. [DRAFT RFP](https://github.com/18F/its70-fs-epermit-scale-up/blob/master/solicitation-documents/RFP.md)
 
-3. [DRAFT QASP](https://github.com/18F/its70-fs-epermit-scale-up/QASP.md)
+3. [DRAFT QASP](https://github.com/18F/its70-fs-epermit-scale-up/blob/master/solicitation-documents/QASP.md)
 
-3. [DRAFT Technical Quote Questions](https://github.com/18F/its70-fs-epermit-scale-up/technical-quote-questions.md)
+3. [DRAFT Technical Quote Questions](https://github.com/18F/its70-fs-epermit-scale-up/blob/master/solicitation-documents/technical-quote-questions.md)
 
