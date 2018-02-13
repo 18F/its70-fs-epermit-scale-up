@@ -1,4 +1,4 @@
-### Forest Service ePermit Scale Up Procurement Request for Information
+# Forest Service ePermit Scale Up Procurement Request for Information
 
 
 **Request for Information from Schedule 70 Vendors:**
@@ -13,6 +13,6 @@ Please provide a bit more information about your company by responding to this [
 
 **Request \#2:**
 
-This is even more important. We’d welcome your feedback on our [draft RFQ](/solicitation-documents/RFQ.md). Like most everything that 18F does, we are intentionally transparent and hope that you will provide your comments publicly. We’ve set up an [Issues](https://github.org/18F/its70-fs-epermit-scale-up/issues) file in our GitHub repo that is meant to capture and respond to any feedback that the vendor community has about our documentation and the acquisition process we intend to follow. Keep in mind that this is a draft document, so we fully intend to make changes if we think it will lead to better outcomes for our acquisition.
+This is even more important. We’d welcome your feedback on our [draft RFQ](/solicitation-documents/RFQ.md). Like most everything that 18F does, we are intentionally transparent and hope that you will provide your comments publicly. We’ve set up an [Issues](https://github.com/18F/its70-fs-epermit-scale-up/issues) file in our GitHub repo that is meant to capture and respond to any feedback that the vendor community has about our documentation and the acquisition process we intend to follow. Keep in mind that this is a draft document, so we fully intend to make changes if we think it will lead to better outcomes for our acquisition.
 
 We’ll keep this GitHub repository updated as we make progress towards releasing a final RFP. Thanks very much for your time, and we look forward to hearing from you about this important project\!
