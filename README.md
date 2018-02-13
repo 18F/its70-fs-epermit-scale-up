@@ -3,7 +3,7 @@
 
 **Request for Information from Schedule 70 Vendors:**
 
-The Forest Service and 18F Acquisition team plan to release a solicitation on GSA Schedule 70 in a few months that will be the fourth contract in the Forest Service’s modular procurement strategy to build an online permitting system. The [<span class="underline">first 3 procurements</span>](https://github.com/18F/fs-online-permitting/wiki#project-code-repositories-sites-and-rfqs) used 18F’s agile Blanket Purchase Agreement. We’re now investigating whether we can get enhanced competition by setting the next procurement aside for small businesses on Schedule 70.
+The Forest Service and 18F Acquisition team plan to release a solicitation on GSA Schedule 70 in a few months that will be the fourth contract in the Forest Service’s modular procurement strategy to build an online permitting system. The [<span class="underline">first 3 procurements</span>](https://github.com/18F/fs-online-permitting/wiki#project-code-repositories-sites-and-rfqs) used 18F’s agile Blanket Purchase Agreement. We’re now investigating whether we can get enhanced competition by setting the next procurement aside for small businesses on GSA's[Schedule 70](https://www.gsa.gov/technology/technology-purchasing-programs/it-schedule-70).
 
 Like all of the buys that 18F supports with our federal and state partners, we're looking for vendor teams that focus on human-centered design, modern software development techniques, and incremental delivery of products using open source code. If this project is something that your company would be interested in following, we’ve got two requests that we don’t think should take too much of your time:
 
