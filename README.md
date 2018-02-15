@@ -13,6 +13,7 @@ Like all buys that 18F supports with our federal and state partners, we're looki
 We are soliciting your feedback on our [draft RFP](/solicitation-documents/Draft-RFP.md). 18F is intentionally transparent and encourages you to submit your feedback publicly. We’ve set up a [place for issues in this repo](https://github.com/18F/its70-fs-epermit-scale-up/issues) to capture and respond to feedback from the vendor community on our documentation and the acquisition process we intend to follow. Please keep in mind that this is a draft document — we fully intend to make any changes that will ensure better outcomes for our future acquisitions.
 
 **Request \#2:**
+
 Please respond to this [short survey](https://docs.google.com/forms/d/e/1FAIpQLSdC7r27gVmMImg-NVOVonkVpi4b4W-AaLUCgLtsrt_DoDBdkA/viewform?usp=sf_link) by 3:00 PM EST on March 1, 2018, to provide more information about your company. This information will help us determine whether or not we have the potential to collaborate. We will incorporate this information into our ongoing market research that is used to identify vendors that align with our goal of delivering great software products to our end users. 
 
 We’ll keep this GitHub repository updated as we make progress towards releasing a final RFP. Thanks for your time, and we look forward to hearing from you!
