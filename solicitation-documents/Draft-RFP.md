@@ -225,7 +225,7 @@ The following milestones are provided for this solicitation.
 | 2       | TBD in Final RFQ | Questions about Solicitation Due |
 | 3       | TBD in Final RFQ | Written Quote Submissions Due    |
 
-If you’d like to ask questions or comments about this RFQ, you must submit them as issues in our GitHub repository.
+If you’d like to ask questions or comments about this RFQ, you must submit them as [issues in this GitHub repository](https://github.com/18F/its70-fs-epermit-scale-up/issues).
 
 Quotes must be valid for at least 90 calendar days after the quotation response date. Information provided in the quotation must be concise, specific, and complete.
 
