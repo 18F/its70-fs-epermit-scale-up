@@ -40,15 +40,13 @@ The Vendor must build a custom software extend the [<span class="underline">exis
 
   - ### Applicants to submit complete applications with valid data to the internal USFS permit management system 
 
-<!-- end list -->
+  - ### More transparency in the special use application process
 
-  - > More transparency in the special use application process
+  - ### An improved user experience across permit types
 
-  - > An improved user experience across permit types
+  - ### Special Use Administrators’ ePermit reporting needs to be met
 
-  - > Special Use Administrators’ ePermit reporting needs to be met
-
-  - > Additional special use permit types if user research suggests this could be highly valuable
+  - ### Additional special use permit types if user research suggests this could be highly valuable
 
 Some of the user stories that may be included as part of this work are included in the Appendix.
 
