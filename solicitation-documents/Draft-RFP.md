@@ -283,7 +283,7 @@ Code repositories submitted must meet the following requirements: They must be f
 
 In addition, we will express a strong preference for Offerors who submit code repositories that are:
 
-  - > Version controlled the same runtime language as proposed as the existing online permitting platform (AngularJS and Node.js).
+  - Version controlled the same runtime language as proposed as the existing online permitting platform (AngularJS and Node.js).
 
   - If not publicly available, demonstrates security practices that are appropriate for source code release (i.e. no hard-coded passwords).
 
