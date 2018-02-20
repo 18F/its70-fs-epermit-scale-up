@@ -14,7 +14,7 @@
 
 2.  Key personnel
     
-    6.  Key personnel \#1 Scrum master
+    1.  Key personnel \#1 Scrum master
         
         1.  Name
         
@@ -24,86 +24,87 @@
         
         4.  Resume (1 page max)
     
-    7.  Key personnel \#2 User researcher
+    2.  Key personnel \#2 User researcher
         
-        5.  Name
+        1.  Name
         
-        6.  Email
+        2.  Email
         
-        7.  Github Profile (optional)
+        3.  Github Profile (optional)
         
-        8.  Example research artifact (e.g., research plan, research report, or usability test summary
+        4.  Example research artifact (e.g., research plan, research report, or usability test summary
         
-        9.  Resume (1 page max)
+        5.  Resume (1 page max)
     
-    8.  Key personnel \#3 Senior full-stack developer
+    3.  Key personnel \#3 Senior full-stack developer
         
-        10. Name
+        1. Name
         
-        11. Email
+        2. Email
         
-        12. Github Profile
+        3. Github Profile
         
-        13. Resume (1 page max)
+        4. Resume (1 page max)
     
-    9.  Optional: Writer / Content designer / Content strategist
+    4.  Optional: Writer / Content designer / Content strategist
         
-        14. Name
+        1. Name
         
-        15. Email
+        2. Email
         
-        16. Github Profile (Optional)
+        3. Github Profile (Optional)
         
-        17. Writing Sample
+        4. Writing Sample
         
-        18. Resume (1 page max)
+        5. Resume (1 page max)
     
-    10. Optional: Designer / UX designer
+    5. Optional: Designer / UX designer
         
-        19. Name
+        1. Name
         
-        20. Email
+        2. Email
         
-        21. Github Profile (Optional)
+        3. Github Profile (Optional)
         
-        22. Upload mockups or link to live version of project
+        4. Upload mockups or link to live version of project
         
-        23. Resume (1 page max)
+        5. Resume (1 page max)
 
 3.  Similar experience - Sample projects code and demonstration site
     
-    11. Project 1:
+    1. Project 1:
         
-        24. Link to code repository
+        1. Link to code repository
         
-        25. Link to live version of project
+        2. Link to live version of project
         
-        26. Please note the name(s) of the proposed key personnel involved in this project. List of labor categories used to produce project
+        3. Please note the name(s) of the proposed key personnel involved in this project. 
         
-        27. Link to any user research artifacts or materials developed during development of this project
+        4. List of labor categories used to produce project
         
-        28. Credentials for user research artifacts or materials (if necessary)
+        5. Link to any user research artifacts or materials developed during development of this project
+        
+        6. Credentials for user research artifacts or materials (if necessary)
     
-    12. Project 2:
+    2. Project 2:
         
-        29. Link to code repository
+        1. Link to code repository
         
-        30. Link to live version of project
+        2. Link to live version of project
         
-        31. Please note the name(s) of the proposed key personnel involved in this project.
+        3. Please note the name(s) of the proposed key personnel involved in this project.
         
-        32. List of labor categories used to produce project
+        4. List of labor categories used to produce project
         
-        33. Link to any user research artifacts or materials developed during development of this project
+        5. Link to any user research artifacts or materials developed during development of this project
         
-        34. Credentials for user research artifacts or materials (if necessary)
+        6. Credentials for user research artifacts or materials (if necessary)
 
-4.  Similar experience - usability research results
+4.  Similar experience - usability research results 
 
-Please submit up to three examples of user research deliverables.
+    1.  Please submit up to three examples of user research deliverables.
+        1. File upload 1 or link
 
-1.  File upload 1 or link
+        2.  File upload 2 or link
 
-2.  File upload 2 or link
-
-3.  File upload 3 or link
+        3.  File upload 3 or link
