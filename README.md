@@ -14,7 +14,7 @@ We are soliciting your feedback on our [draft RFP](/solicitation-documents/Draft
 
 **Request \#2:**
 
-Please respond to this [short survey](https://docs.google.com/forms/d/e/1FAIpQLSdC7r27gVmMImg-NVOVonkVpi4b4W-AaLUCgLtsrt_DoDBdkA/viewform?usp=sf_link) by 3:00 PM EST on March 1, 2018, to provide more information about your company. This information will help us determine whether or not we have the potential to collaborate. We will incorporate this information into our ongoing market research that is used to identify vendors that align with our goal of delivering great software products to our end users. 
+Please respond to this [short survey](https://docs.google.com/forms/d/e/1FAIpQLSdC7r27gVmMImg-NVOVonkVpi4b4W-AaLUCgLtsrt_DoDBdkA/viewform?usp=sf_link) by 3:00 PM EST on March 5, 2018, to provide more information about your company. This information will help us determine whether or not we have the potential to collaborate. We will incorporate this information into our ongoing market research that is used to identify vendors that align with our goal of delivering great software products to our end users. 
 
 We’ll keep this GitHub repository updated as we make progress towards releasing a final RFP. Thanks for your time, and we look forward to hearing from you!
 
