@@ -31,22 +31,22 @@ The Vendor must build a custom software extend the [<span class="underline">exis
 
 ### The contractor shall build or adapt the permit platform functionality to allow for:
 
-  - ### More forests to be added to the Special Use permit applications system 
+  - More forests to be added to the Special Use permit applications system 
 
-  - ### User group and role management 
+  - User group and role management 
 
-  - ### A system that is production ready from a compliance perspective  
+  - A system that is production ready from a compliance perspective  
     Note: the goal of this objective is to harden our system so that we can get an [<span class="underline">Authority to Operate (ATO)</span>](https://before-you-ship.18f.gov/security/)
 
-  - ### Applicants to submit complete applications with valid data to the internal USFS permit management system 
+  - Applicants to submit complete applications with valid data to the internal USFS permit management system 
 
-  - ### More transparency in the special use application process
+  - More transparency in the special use application process
 
-  - ### An improved user experience across permit types
+  - An improved user experience across permit types
 
-  - ### Special Use Administrators’ ePermit reporting needs to be met
+  - Special Use Administrators’ ePermit reporting needs to be met
 
-  - ### Additional special use permit types if user research suggests this could be highly valuable
+  - Additional special use permit types if user research suggests this could be highly valuable
 
 Some of the user stories that may be included as part of this work are included in the Appendix.
 
@@ -56,37 +56,37 @@ Please note: additional epics and stories will result from onboarding new forest
 
 **2.1.1 Product requirements**
 
-  - > **Build as part of the existing [<span class="underline">permitting platform</span>](https://github.com/18F/fs-permit-platform) and as needed the [<span class="underline">special use middlelayer api</span>](https://github.com/18f/fs-middlelayer-api). Any changes affecting special use must ensure that existing functionality is maintained unless removed or adapted per emerging user needs **
+  - **Build as part of the existing [<span class="underline">permitting platform</span>](https://github.com/18F/fs-permit-platform) and as needed the [<span class="underline">special use middlelayer api</span>](https://github.com/18f/fs-middlelayer-api). Any changes affecting special use must ensure that existing functionality is maintained unless removed or adapted per emerging user needs **
 
-  - > All software code delivered under this order shall comply with the [<span class="underline">18F open source policy</span>](https://github.com/18F/open-source-policy/blob/master/policy.md) in effect as of the date of award.
+  - All software code delivered under this order shall comply with the [<span class="underline">18F open source policy</span>](https://github.com/18F/open-source-policy/blob/master/policy.md) in effect as of the date of award.
 
-  - > All software code delivered under this order shall comply with the [<span class="underline">18F Accessibility Guidelines</span>](https://accessibility.18f.gov/) in effect as of the date of award.
+  - All software code delivered under this order shall comply with the [<span class="underline">18F Accessibility Guidelines</span>](https://accessibility.18f.gov/) in effect as of the date of award.
 
-  - > The contractor will use the USFS adaptation of the [*<span class="underline">US Web Design System.</span>*](https://playbook.cio.gov/designstandards/)
+  - The contractor will use the USFS adaptation of the [*<span class="underline">US Web Design System.</span>*](https://playbook.cio.gov/designstandards/)
 
-  - > All dependencies (and licenses for dependencies) must be listed within the repository.
+  - All dependencies (and licenses for dependencies) must be listed within the repository.
 
-  - > All major functions must be documented inline.
+  - All major functions must be documented inline.
 
-  - > Code must be stored in a version-controlled, open-source repositories supplied by 18F, with all code needed to run the application available in those repositories.
+  - Code must be stored in a version-controlled, open-source repositories supplied by 18F, with all code needed to run the application available in those repositories.
 
 **2.1.2 Process requirements**
 
-  - > Work will be conducted in two-week sprints and reviewed at the end of each sprint for acceptability per the Quality Assurance Surveillance Plan (“QASP”) before moving on. The Vendor and Government may mutually agree to alter sprint length as needed.
+  - Work will be conducted in two-week sprints and reviewed at the end of each sprint for acceptability per the Quality Assurance Surveillance Plan (“QASP”) before moving on. The Vendor and Government may mutually agree to alter sprint length as needed.
 
-  - > Usability testing and other user research methods must be conducted at regular intervals throughout the development process (not just at the beginning or end), with all artifacts from usability testing and/or other research methods with end-users being made available at the end of every applicable sprint.
+  - Usability testing and other user research methods must be conducted at regular intervals throughout the development process (not just at the beginning or end), with all artifacts from usability testing and/or other research methods with end-users being made available at the end of every applicable sprint.
 
-  - > Recruit members of the public to participate in usability testing throughout the development process.
+  - Recruit members of the public to participate in usability testing throughout the development process.
 
-  - > All Contractor Key Personnel, employees, agents, subcontractors, and subcontractor personnel who will have access to documents or data during the performance of their duties under the contract shall execute the attached Non-Disclosure Agreement and return it to the CO within 5 calendar days of award and before being given access to such information or documents.
+  - All Contractor Key Personnel, employees, agents, subcontractors, and subcontractor personnel who will have access to documents or data during the performance of their duties under the contract shall execute the attached Non-Disclosure Agreement and return it to the CO within 5 calendar days of award and before being given access to such information or documents.
 
 ### 2.2 Government Furnished Property
 
 In order to assist the vendor in fulfill the deliverables, the Government will provide:
 
-  - > A cloud.gov staging environment with vendor access to the environment logs and credentials for continuous deployment. Note: direct push rights will not be given unless the 18F and Forest Service team determines that it is necessary.
+  - A cloud.gov staging environment with vendor access to the environment logs and credentials for continuous deployment. Note: direct push rights will not be given unless the 18F and Forest Service team determines that it is necessary.
 
-  - > Multi-channel guest access to the GSA-TTS Slack for team collaboration.
+  - Multi-channel guest access to the GSA-TTS Slack for team collaboration.
 
 ### 2.3 Post Award Orientation Conference
 
@@ -94,29 +94,29 @@ The Government’s team and the Contractor’s team will hold a Post Award Orien
 
 This will likely be done virtually. The purpose will be to review and clarify the project’s objectives and the Government’s expectations. Additionally, the Government will address any questions the Contractor may have. Discussion topics shall include, but not be limited to:
 
-  - > Introduction of the Contractor and Government staff
+  - Introduction of the Contractor and Government staff
 
-  - > Understanding of the workflow
+  - Understanding of the workflow
 
-  - > Project management expectations
+  - Project management expectations
 
-  - > Agreement on communication methods
+  - Agreement on communication methods
 
-  - > Discussion of any other relevant specific concerns
+  - Discussion of any other relevant specific concerns
 
-  - > Finalizing Contractor Teaming Arrangements (CTAs)/Subcontractor arrangements
+  - Finalizing Contractor Teaming Arrangements (CTAs)/Subcontractor arrangements
 
 ### 2.4 Daily Operations
 
 The Contractor’s Project Manager serving in their capacity as ScrumMaster shall be responsible for daily operations as well as coordinating and communicating with the Forest Service Product Owner. Daily operations may include:
 
-  - > Daily standup via Google Hangouts, Zoom, appear.in, or other web-based video chat software
+  - Daily standup via Google Hangouts, Zoom, appear.in, or other web-based video chat software
 
-  - > Chat operations via Slack
+  - Chat operations via Slack
 
-  - > Manage and update user stories and workflow tasks in a shared project management system, such as Trello or Github.
+  - Manage and update user stories and workflow tasks in a shared project management system, such as Trello or Github.
 
-  - > Sprint ceremonies including sprint review, retro, planning and backlog refinement
+  - Sprint ceremonies including sprint review, retro, planning and backlog refinement
 
 ### 2.5 Frequency of Invoices
 
@@ -130,11 +130,11 @@ Ensure and agree that all deliverables, products, licenses, designs, data, docum
 
 During the transition to the Government or a new contractor, the Contractor shall perform all necessary transition activities. Expected transition activities may include, but not be limited to:
 
-  - > Continuation of full services to TTS and other customers
+  - Continuation of full services to TTS and other customers
 
-  - > Participation in meetings with the Government or a new contractor to effect a smooth transition and provide detailed information on the operation of all deliverables, at COR and the TTS Product Lead's discretion
+  - Participation in meetings with the Government or a new contractor to effect a smooth transition and provide detailed information on the operation of all deliverables, at COR and the TTS Product Lead's discretion
 
-  - > Training of new personnel, either Government or a new contractor, during transition period Appropriate close-out of any outstanding technical and related performance elements for this task
+  - Training of new personnel, either Government or a new contractor, during transition period Appropriate close-out of any outstanding technical and related performance elements for this task
 
 ## Should the Contractor be terminated prior to the end of the period of performance, the Contractor shall transfer all project materials to the COR and the TTS Product Lead within two weeks of the COR and the TTS Product Lead’s request.
 
@@ -161,39 +161,39 @@ The Vendor must provide a team of qualified personnel — people whose knowledge
 
 Proposed personnel must have a strong technical experience base in the following:
 
-  - > Technology stack referenced in the repositories linked Section 2.1.1.
+  - Technology stack referenced in the repositories linked Section 2.1.1.
 
-  - > Iterative development practices, as well as specific methodologies such as Scrum
+  - Iterative development practices, as well as specific methodologies such as Scrum
 
-  - > Automated (unit/integration/end-to-end) testing experience
+  - Automated (unit/integration/end-to-end) testing experience
 
-  - > Continuous Integration and Continuous Deployment
+  - Continuous Integration and Continuous Deployment
 
-  - > Refactoring to minimize technical debt
+  - Refactoring to minimize technical debt
 
-  - > Application Protocol Interface (API) development and documentation
+  - Application Protocol Interface (API) development and documentation
 
-  - > Open-source software development
+  - Open-source software development
 
-  - > Cloud deployment - for demonstration hosting
+  - Cloud deployment - for demonstration hosting
 
-  - > Open-source login/authentication services
+  - Open-source login/authentication services
 
-  - > Mobile-first approaches, performance budgeting, and progressive enhancement
+  - Mobile-first approaches, performance budgeting, and progressive enhancement
 
 Using human-centered design methods to build and test form-driven, web-based applications. Human-centered design practices include:
 
-  - > Usability research, such as (but not limited to) contextual inquiry, stakeholder interviews, and usability testing
+  - Usability research, such as (but not limited to) contextual inquiry, stakeholder interviews, and usability testing
 
-  - > User experience design
+  - User experience design
 
-  - > Sketching, wireframing, and/or prototyping, and user-task flow development.
+  - Sketching, wireframing, and/or prototyping, and user-task flow development.
 
-  - > Visual design
+  - Visual design
 
-  - > Content design and copywriting
+  - Content design and copywriting
 
-  - > Building and testing public facing sites and tools
+  - Building and testing public facing sites and tools
 
 ### 4.2 Key Personnel
 
@@ -201,11 +201,11 @@ Using human-centered design methods to build and test form-driven, web-based app
 
 For this task the following Key Personnel are necessary (as detailed at [<span class="underline">https://agile-labor-categories.18f.gov</span>](https://agile-labor-categories.18f.gov/))
 
-  - > **Scrum master** will serve to facilitate a self-organizing team and ensure the daily operations in Section 2.4
+  - **Scrum master** will serve to facilitate a self-organizing team and ensure the daily operations in Section 2.4
 
-  - > **Senior full stack developer** - must be comfortable with both Node.js and AngularJS and will contribute to the production code of the online permitting platform.
+  - **Senior full stack developer** - must be comfortable with both Node.js and AngularJS and will contribute to the production code of the online permitting platform.
 
-  - > **User Researcher -** conducts usability tests, develops research plans, and translates end-user feedback into additional user stories.
+  - **User Researcher -** conducts usability tests, develops research plans, and translates end-user feedback into additional user stories.
 
 #### 4.2.2 Key Personnel substitution
 
@@ -253,21 +253,21 @@ The offeror must provide a list of key personnel. This list will include each te
 
 Each proposed team member’s resume should include the following:
 
-  - > A summary of the person’s experience and capabilities
+  - A summary of the person’s experience and capabilities
 
-  - > A summary of the person’s technical background
+  - A summary of the person’s technical background
 
-  - > Work experience
+  - Work experience
 
-  - > Accomplishments relevant to the solicitation
+  - Accomplishments relevant to the solicitation
 
-  - > For technical architects, backend developers, frontend developers, and user researchers, a link to the person’s GitHub repository.
+  - For technical architects, backend developers, frontend developers, and user researchers, a link to the person’s GitHub repository.
 
-  - > For writers, content strategists, and designers a writing sample and/or usability research artifact.
+  - For writers, content strategists, and designers a writing sample and/or usability research artifact.
 
 If an offeror or teaming partner would like to include, as part of their key group of personnel, someone they’re not currently employing, they’ll need to include a letter of intent signed by that person (in accordance with Section 4.2 of this solicitation).
 
-  - > Please make sure all resumes are no longer than one page.
+  - Please make sure all resumes are no longer than one page.
 
 **5.1.1.3 Similar experience - code repository submission**
 
@@ -275,25 +275,25 @@ To be considered for award, offerors must provide links to the relevant version 
 
 Code repositories submitted must meet the following requirements: They must be for projects completed within the last three (3) calendar years. They must have staffing profiles of at least three full-time equivalent (FTE) personnel. They can cover performance periods of no more than eighteen (18) months. The projects must have been delivered by one of the following:
 
-  - > The Offeror
+  - The Offeror
 
-  - > A teaming partner (proposed in response to this solicitation)
+  - A teaming partner (proposed in response to this solicitation)
 
-  - > Proposed key personnel
+  - Proposed key personnel
 
 In addition, we will express a strong preference for Offerors who submit code repositories that are:
 
   - > Version controlled the same runtime language as proposed as the existing online permitting platform (AngularJS and Node.js).
 
-  - > If not publicly available, demonstrates security practices that are appropriate for source code release (i.e. no hard-coded passwords).
+  - If not publicly available, demonstrates security practices that are appropriate for source code release (i.e. no hard-coded passwords).
 
-  - > Indication of how source-code is built and deployed via configuration as code.
+  - Indication of how source-code is built and deployed via configuration as code.
 
-  - > Proposed key personnel were involved
+  - Proposed key personnel were involved
 
-  - > Include design artifacts and the results of user research
+  - Include design artifacts and the results of user research
 
-  - > Feature projects that are roughly similar in terms of size, scope, and complexity.
+  - Feature projects that are roughly similar in terms of size, scope, and complexity.
 
 When you submit repositories, please describe how the offeror’s team was involved in the development.
 
@@ -301,11 +301,11 @@ When you submit repositories, please describe how the offeror’s team was invol
 
 Summary of usability research and research plan including methods used delivered by one of the following:
 
-  - > The Offeror
+  - The Offeror
 
-  - > A teaming partner (proposed in response to this solicitation)
+  - A teaming partner (proposed in response to this solicitation)
 
-  - > Proposed key personnel
+  - Proposed key personnel
 
 **Written technical quotes that fail to include any of the items required above will not be considered for award.**
 
@@ -457,15 +457,15 @@ FAR 52.203-19 Prohibition on Requiring Certain Internal Confidentiality Agreemen
 
 ## Attachments to this Solicitation
 
-1.  > Pricing Template
+1. Pricing Template
 
-2.  > Proposed Quality Assurance Surveillance Plan (QASP)
+2. Proposed Quality Assurance Surveillance Plan (QASP)
 
-3.  > Non-Disclosure Agreement
+3. Non-Disclosure Agreement
 
-4.  > SF1449
+4. SF1449
 
-# 
+ 
 
 # APPENDIX
 
@@ -475,53 +475,53 @@ FAR 52.203-19 Prohibition on Requiring Certain Internal Confidentiality Agreemen
 
   - > As a forest staff member, I want to enter my forest information to enable special use permitting for my forest.
 
-  - > As a forest staff member, I want to be able to add and easily edit content so applicants can learn how to and apply to permits on my forest.
+  - As a forest staff member, I want to be able to add and easily edit content so applicants can learn how to and apply to permits on my forest.
 
-  - > As a member of the public, I want to easily find the special use permit application for forest(s) I’m interested in, so that I can apply quickly.
+  - As a member of the public, I want to easily find the special use permit application for forest(s) I’m interested in, so that I can apply quickly.
 
-  - > As a member of the public, I should be able to discover the variety of online permit types available from my preferred forest, so that I understand the range of services provided by the forest I am interested in.
+  - As a member of the public, I should be able to discover the variety of online permit types available from my preferred forest, so that I understand the range of services provided by the forest I am interested in.
 
-  - > As a potential applicant, I would like to know which information is necessary for me to complete for the forest and permit type I'm applying for.
+  - As a potential applicant, I would like to know which information is necessary for me to complete for the forest and permit type I'm applying for.
 
 ### Epic: User group management 
 
-  - > As a forest staff member, I should be able to get appropriate admin privileges to manage my forest’s presence in the ePermit app, so that I can make necessary content changes myself.
+  - As a forest staff member, I should be able to get appropriate admin privileges to manage my forest’s presence in the ePermit app, so that I can make necessary content changes myself.
 
-  - > As a forest administrator, I should be able to enable and revoke special use or special forest product privileges for active Forest Service Employees.
+  - As a forest administrator, I should be able to enable and revoke special use or special forest product privileges for active Forest Service Employees.
 
 Epic: Ensure modules are production ready from a compliance perspective  
 Note: the goal of this epic is to harden our system so that we can get an [<span class="underline">Authority to Operate (ATO)</span>](https://before-you-ship.18f.gov/security/)
 
-  - > As a user, I would like to be assured that this system will not compromise my information or data.
+  - As a user, I would like to be assured that this system will not compromise my information or data.
 
-  - > As a user, I would like my information to be recoverable in the event of a system failure, so that I do not have to restart the application process.
+  - As a user, I would like my information to be recoverable in the event of a system failure, so that I do not have to restart the application process.
 
 ### Epic: Help users submit complete applications with valid data 
 
-  - > As a special use admin, I would like to make sure that data is properly displayed in the USFS’s internal and separate special use permit issuing system: the Special Use Data System (SUDS).
+  - As a special use admin, I would like to make sure that data is properly displayed in the USFS’s internal and separate special use permit issuing system: the Special Use Data System (SUDS).
 
-  - > As an applicant, I would like to ensure that all field types have the proper validation to complete an application.
+  - As an applicant, I would like to ensure that all field types have the proper validation to complete an application.
 
 ### Epic: Make application activity transparent to applicants and Special Use Administrators
 
-  - > As an applicant, I want to be automatically notified when my permit application is approved, so that I don’t need to contact the Special Use Administrator to know the status of my application.
+  - As an applicant, I want to be automatically notified when my permit application is approved, so that I don’t need to contact the Special Use Administrator to know the status of my application.
 
-  - > As an applicant, I want to receive a confirmation email after submitting an application, so that I know it’s been submitted successfully.
+  - As an applicant, I want to receive a confirmation email after submitting an application, so that I know it’s been submitted successfully.
 
 ### Epic: Improve User Experience
 
 Stories will emerge from Forest onboarding and user testing, and may include items like:
 
-  - > As an applicant, I want to be able to submit multiple applications without having to retype in my basic info, so that I can save time.
+  - As an applicant, I want to be able to submit multiple applications without having to retype in my basic info, so that I can save time.
 
-  - > As an applicant, I would like to know what personally identifiable information is being collected from me before I submit my application, so that I understand the potential risks.
+  - As an applicant, I would like to know what personally identifiable information is being collected from me before I submit my application, so that I understand the potential risks.
 
-  - > As a temporary outfitter applicant I would like to understand more clearly whose name and email should be entered in the temp outfitter permit application, so that I can log back in to retrieve my application.
+  - As a temporary outfitter applicant I would like to understand more clearly whose name and email should be entered in the temp outfitter permit application, so that I can log back in to retrieve my application.
 
 ### Epic: Ensure that Special Use Administrators’ ePermit reporting needs are met
 
-  - > This includes generative research to discover what unique ePermit reporting needs exist and whether we can meet them using existing reporting capabilities (i.e. SUDS).
+  - This includes generative research to discover what unique ePermit reporting needs exist and whether we can meet them using existing reporting capabilities (i.e. SUDS).
 
-  - > Research findings will inform additional stories
+  - Research findings will inform additional stories
 
 Please note: additional epics and stories will result from onboarding new forests, user research, usability tests, and feedback from real end-users once the system is in production.
