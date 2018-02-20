@@ -23,9 +23,11 @@ We’ll keep this GitHub repository updated as we make progress towards releasin
 
 1. [DRAFT RFP](https://github.com/18F/its70-fs-epermit-scale-up/blob/master/solicitation-documents/Draft-RFP.md)
 
-3. [DRAFT QASP](https://github.com/18F/its70-fs-epermit-scale-up/blob/master/solicitation-documents/Draft-QASP.md)
+2. [DRAFT QASP](https://github.com/18F/its70-fs-epermit-scale-up/blob/master/solicitation-documents/Draft-QASP.md)
 
 3. [DRAFT Technical Quote Questions](https://github.com/18F/its70-fs-epermit-scale-up/blob/master/solicitation-documents/technical-quote-questions.md)
+
+4. [Survey Google Form - Request for Information](https://docs.google.com/forms/d/e/1FAIpQLSdC7r27gVmMImg-NVOVonkVpi4b4W-AaLUCgLtsrt_DoDBdkA/viewform?usp=sf_link)
 
 ## Public domain
 
