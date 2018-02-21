@@ -82,7 +82,7 @@ Please note: additional epics and stories will result from onboarding new forest
 
 ### 2.2 Government Furnished Property
 
-In order to assist the vendor in fulfill the deliverables, the Government will provide:
+In order to assist the vendor in fulfilling the deliverables, the Government will provide:
 
   - A cloud.gov staging environment with vendor access to the environment logs and credentials for continuous deployment. Note: direct push rights will not be given unless the 18F and Forest Service team determines that it is necessary.
 
