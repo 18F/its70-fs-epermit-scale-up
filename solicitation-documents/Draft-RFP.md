@@ -427,7 +427,7 @@ Contracting Officer (CO) Contract Specialist (CS) Contracting Officer Representa
 
 ### 8.2 Roles and responsibilities
 
-Please refer to the roles and responsibilities listed on our [<span class="underline">18F Assisted Acquisition Roles and Responsibilities Page.</span>](https://ads.18f.gov/roles-and-responsibilities/)
+Please refer to the roles and responsibilities listed on our [<span class="underline">18F Assisted Acquisition Roles and Responsibilities Page.</span>](https://agile-bpa.18f.gov/working-with-us/our-project-team/)
 
 ## 9.0 Additional Provisions/Clauses Applicable to this Order
 
