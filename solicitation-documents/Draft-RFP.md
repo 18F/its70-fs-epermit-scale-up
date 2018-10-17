@@ -473,7 +473,7 @@ FAR 52.203-19 Prohibition on Requiring Certain Internal Confidentiality Agreemen
 
 ### Epic: Allow for more forests to be added to the Special Use permit applications system 
 
-  - > As a forest staff member, I want to enter my forest information to enable special use permitting for my forest.
+  - As a forest staff member, I want to enter my forest information to enable special use permitting for my forest.
 
   - As a forest staff member, I want to be able to add and easily edit content so applicants can learn how to and apply to permits on my forest.
 
